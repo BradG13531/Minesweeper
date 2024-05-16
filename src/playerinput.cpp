@@ -314,6 +314,7 @@ void playerInput(Minefield &minefield)
     int numRows = minefield.getRows();
     int numCols = minefield.getCols();
 
+    cout << "Remaining Flags: " << minefield.getFlags() << '\n';
     cout << "Enter move and flag (Format: {Column Row (Flag: f)}): " << '\n';
     bool validInput{false};
     while (!validInput)

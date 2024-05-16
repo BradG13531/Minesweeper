@@ -19,7 +19,7 @@ int main()
 
     // The user is prompted with first move and board is instantiated
     firstMove(minefield);
-
+    
     while (!minefield.gameOver()) // The game continues until gameover() is true
     {
         playerInput(minefield);
