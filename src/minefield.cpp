@@ -38,7 +38,6 @@ Minefield::Minefield(int rows, int cols, int mines)
     }
 
     m_unrevealed = m_rows * m_cols;
-    cout << "Original unrevealed: " << m_unrevealed << '\n';
 
     minefield.resize(m_rows, vector<Cell>(m_cols));
 }

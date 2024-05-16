@@ -22,9 +22,6 @@ int main()
 
     while (!minefield.gameOver()) // The game continues until gameover() is true
     {
-        cout << "Mines: " << minefield.getMines() << '\n';
-        cout << "Not Revealed: " << minefield.getNotRevealed() << '\n';
-        cout << "G.O. when Mines == Not Revealed";
         playerInput(minefield);
     }
 
