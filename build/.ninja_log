@@ -1,16 +1,15 @@
 # ninja log v6
 1	345	1715642183656852796	src/CMakeFiles/Minesweeper.dir/cell.cpp.o	6ad1afc4fa83d1e2
 9	619	1715884801631662584	CMakeFiles/Minesweeper.dir/src/minefield.cpp.o	7055959c2efb3fe0
-619	665	1715884802241433366	Minesweeper	2cfbe66ce7570fe5
+364	403	1715891271040541362	Minesweeper	2cfbe66ce7570fe5
 1	424	1715642183656701921	src/CMakeFiles/Minesweeper.dir/minefield.cpp.o	cc406e2e7ecd4223
 2	294	1715704095665671301	CMakeFiles/Minesweeper.dir/src/cell.cpp.o	415395e8c3d4f2c9
 428	466	1715642184083253975	src/Minesweeper	e0930cf173bef71a
-9	441	1715884801631177081	CMakeFiles/Minesweeper.dir/src/main.cpp.o	f7b481c7985d47aa
-1	428	1715642183656401962	src/CMakeFiles/Minesweeper.dir/main.cpp.o	ee7bc71923f97046
-5	431	1715835554646056043	CMakeFiles/Minesweeper.dir/src/playerinput.cpp.o	94d75fe3cab13c1e
 13	431	1715891148956369835	CMakeFiles/Minesweeper.dir/src/main.cpp.o	f7b481c7985d47aa
-431	566	1715891149374265090	Minesweeper	2cfbe66ce7570fe5
-14	453	1715891233865293014	CMakeFiles/Minesweeper.dir/src/playerinput.cpp.o	94d75fe3cab13c1e
-455	499	1715891234306300305	Minesweeper	2cfbe66ce7570fe5
+1	428	1715642183656401962	src/CMakeFiles/Minesweeper.dir/main.cpp.o	ee7bc71923f97046
 5	362	1715891270681523400	CMakeFiles/Minesweeper.dir/src/playerinput.cpp.o	94d75fe3cab13c1e
-364	403	1715891271040541362	Minesweeper	2cfbe66ce7570fe5
+4	432	1715892446123099281	CMakeFiles/Minesweeper.dir/src/main.cpp.o	c97f562486d42e8e
+4	437	1715892446123617193	CMakeFiles/Minesweeper.dir/src/cell.cpp.o	b90717f6832b6e7a
+4	608	1715892446123742442	CMakeFiles/Minesweeper.dir/src/playerinput.cpp.o	ad035d67483fb2ca
+4	869	1715892446123470694	CMakeFiles/Minesweeper.dir/src/minefield.cpp.o	59586557c9bd4a58
+869	994	1715892446988894107	Minesweeper	830b1d54bed9dfc6

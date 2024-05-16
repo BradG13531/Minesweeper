@@ -1,0 +1,6 @@
+# ninja log v5
+7	457	7375969616478858	CMakeFiles/Minesweeper.dir/src/cell.cpp.obj	8add4c838cbfc16f
+3	477	7375969616677824	CMakeFiles/Minesweeper.dir/src/main.cpp.obj	8057922eeed8e347
+9	552	7375969617412049	CMakeFiles/Minesweeper.dir/src/playerinput.cpp.obj	762b78f040f34973
+5	776	7375969619658706	CMakeFiles/Minesweeper.dir/src/minefield.cpp.obj	9d5f83c1e78633df
+776	948	7375969621290008	Minesweeper.exe	d8f0aa28df9b21a4

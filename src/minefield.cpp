@@ -85,7 +85,7 @@ void Minefield::createMines(int startRow, int startCol)
  */
 void Minefield::initializeBoard()
 {
-    // Outter two loops go through each individual Cell
+    // Outer two loops go through each individual Cell
     for (int row = 0; row < m_rows; row++)
     {
         for (int col = 0; col < m_cols; col++)
@@ -108,7 +108,7 @@ void Minefield::initializeBoard()
                 minefield[row][col].setStatus(minesFound);
             } // Inner Loop
         }
-    } // Outter loop
+    } // Outer loop
 };
 
 void Minefield::startingArea(int row, int col)
