@@ -4,6 +4,11 @@
  * For more information, please refer to <https://unlicense.org>
  */
 
+// Windows Escape codes
+#ifdef _WIN32
+#define BLK "ESC [ <30> m"
+
+#else
 //Regular text
 #define BLK "\e[0;30m"
 #define RED "\e[0;31m"
@@ -78,3 +83,5 @@
 #define reset "\e[0m"
 #define CRESET "\e[0m"
 #define COLOR_RESET "\e[0m"
+
+#endif

@@ -219,25 +219,25 @@ build cmake_object_order_depends_target_Minesweeper: phony || .
 
 build CMakeFiles/Minesweeper.dir/src/main.cpp.o: CXX_COMPILER__Minesweeper_unscanned_RelWithDebInfo /Users/bradgale/Library/CloudStorage/OneDrive-Personal/CodingProjects/cpp/Minesweeper/src/main.cpp || cmake_object_order_depends_target_Minesweeper
   DEP_FILE = CMakeFiles/Minesweeper.dir/src/main.cpp.o.d
-  FLAGS = -O2 -g -DNDEBUG -std=gnu++2b -arch arm64
+  FLAGS = -O2 -g -DNDEBUG -std=gnu++2b -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4
   OBJECT_DIR = CMakeFiles/Minesweeper.dir
   OBJECT_FILE_DIR = CMakeFiles/Minesweeper.dir/src
 
 build CMakeFiles/Minesweeper.dir/src/minefield.cpp.o: CXX_COMPILER__Minesweeper_unscanned_RelWithDebInfo /Users/bradgale/Library/CloudStorage/OneDrive-Personal/CodingProjects/cpp/Minesweeper/src/minefield.cpp || cmake_object_order_depends_target_Minesweeper
   DEP_FILE = CMakeFiles/Minesweeper.dir/src/minefield.cpp.o.d
-  FLAGS = -O2 -g -DNDEBUG -std=gnu++2b -arch arm64
+  FLAGS = -O2 -g -DNDEBUG -std=gnu++2b -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4
   OBJECT_DIR = CMakeFiles/Minesweeper.dir
   OBJECT_FILE_DIR = CMakeFiles/Minesweeper.dir/src
 
 build CMakeFiles/Minesweeper.dir/src/cell.cpp.o: CXX_COMPILER__Minesweeper_unscanned_RelWithDebInfo /Users/bradgale/Library/CloudStorage/OneDrive-Personal/CodingProjects/cpp/Minesweeper/src/cell.cpp || cmake_object_order_depends_target_Minesweeper
   DEP_FILE = CMakeFiles/Minesweeper.dir/src/cell.cpp.o.d
-  FLAGS = -O2 -g -DNDEBUG -std=gnu++2b -arch arm64
+  FLAGS = -O2 -g -DNDEBUG -std=gnu++2b -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4
   OBJECT_DIR = CMakeFiles/Minesweeper.dir
   OBJECT_FILE_DIR = CMakeFiles/Minesweeper.dir/src
 
 build CMakeFiles/Minesweeper.dir/src/playerinput.cpp.o: CXX_COMPILER__Minesweeper_unscanned_RelWithDebInfo /Users/bradgale/Library/CloudStorage/OneDrive-Personal/CodingProjects/cpp/Minesweeper/src/playerinput.cpp || cmake_object_order_depends_target_Minesweeper
   DEP_FILE = CMakeFiles/Minesweeper.dir/src/playerinput.cpp.o.d
-  FLAGS = -O2 -g -DNDEBUG -std=gnu++2b -arch arm64
+  FLAGS = -O2 -g -DNDEBUG -std=gnu++2b -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4
   OBJECT_DIR = CMakeFiles/Minesweeper.dir
   OBJECT_FILE_DIR = CMakeFiles/Minesweeper.dir/src
 
@@ -250,7 +250,7 @@ build CMakeFiles/Minesweeper.dir/src/playerinput.cpp.o: CXX_COMPILER__Minesweepe
 # Link the executable Minesweeper
 
 build Minesweeper: CXX_EXECUTABLE_LINKER__Minesweeper_RelWithDebInfo CMakeFiles/Minesweeper.dir/src/main.cpp.o CMakeFiles/Minesweeper.dir/src/minefield.cpp.o CMakeFiles/Minesweeper.dir/src/cell.cpp.o CMakeFiles/Minesweeper.dir/src/playerinput.cpp.o
-  FLAGS = -O2 -g -DNDEBUG -arch arm64
+  FLAGS = -O2 -g -DNDEBUG -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4
   OBJECT_DIR = CMakeFiles/Minesweeper.dir
   POST_BUILD = :
   PRE_LINK = :

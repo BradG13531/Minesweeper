@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Site BuildName="Darwin-clang++"
-	BuildStamp="20240516-0112-Experimental"
+	BuildStamp="20240518-1622-Experimental"
 	Name="Brads-MBP.lan"
 	Generator="ctest-3.29.2"
 	CompilerName="/usr/bin/clang++"
@@ -18,17 +18,17 @@
 	ProcessorCacheSize="131072"
 	NumberOfLogicalCPU="10"
 	NumberOfPhysicalCPU="10"
-	TotalVirtualMemory="0"
+	TotalVirtualMemory="1024"
 	TotalPhysicalMemory="16384"
 	LogicalProcessorsPerPhysical="10"
 	ProcessorClockFrequency="0"
 	>
 	<Testing>
-		<StartDateTime>May 16 16:28 CDT</StartDateTime>
-		<StartTestTime>1715894896</StartTestTime>
+		<StartDateTime>May 18 11:22 CDT</StartDateTime>
+		<StartTestTime>1716049348</StartTestTime>
 		<TestList/>
-		<EndDateTime>May 16 16:28 CDT</EndDateTime>
-		<EndTestTime>1715894896</EndTestTime>
+		<EndDateTime>May 18 11:22 CDT</EndDateTime>
+		<EndTestTime>1716049348</EndTestTime>
 		<ElapsedMinutes>0</ElapsedMinutes>
 	</Testing>
 </Site>

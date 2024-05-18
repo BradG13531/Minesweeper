@@ -1,25 +1,25 @@
 [
 {
   "directory": "/Users/bradgale/Library/CloudStorage/OneDrive-Personal/CodingProjects/cpp/Minesweeper/build",
-  "command": "/usr/bin/clang++ -O2 -g -DNDEBUG -std=gnu++2b -arch arm64 -o CMakeFiles/Minesweeper.dir/src/main.cpp.o -c /Users/bradgale/Library/CloudStorage/OneDrive-Personal/CodingProjects/cpp/Minesweeper/src/main.cpp",
+  "command": "/usr/bin/clang++ -O2 -g -DNDEBUG -std=gnu++2b -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -o CMakeFiles/Minesweeper.dir/src/main.cpp.o -c /Users/bradgale/Library/CloudStorage/OneDrive-Personal/CodingProjects/cpp/Minesweeper/src/main.cpp",
   "file": "/Users/bradgale/Library/CloudStorage/OneDrive-Personal/CodingProjects/cpp/Minesweeper/src/main.cpp",
   "output": "CMakeFiles/Minesweeper.dir/src/main.cpp.o"
 },
 {
   "directory": "/Users/bradgale/Library/CloudStorage/OneDrive-Personal/CodingProjects/cpp/Minesweeper/build",
-  "command": "/usr/bin/clang++ -O2 -g -DNDEBUG -std=gnu++2b -arch arm64 -o CMakeFiles/Minesweeper.dir/src/minefield.cpp.o -c /Users/bradgale/Library/CloudStorage/OneDrive-Personal/CodingProjects/cpp/Minesweeper/src/minefield.cpp",
+  "command": "/usr/bin/clang++ -O2 -g -DNDEBUG -std=gnu++2b -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -o CMakeFiles/Minesweeper.dir/src/minefield.cpp.o -c /Users/bradgale/Library/CloudStorage/OneDrive-Personal/CodingProjects/cpp/Minesweeper/src/minefield.cpp",
   "file": "/Users/bradgale/Library/CloudStorage/OneDrive-Personal/CodingProjects/cpp/Minesweeper/src/minefield.cpp",
   "output": "CMakeFiles/Minesweeper.dir/src/minefield.cpp.o"
 },
 {
   "directory": "/Users/bradgale/Library/CloudStorage/OneDrive-Personal/CodingProjects/cpp/Minesweeper/build",
-  "command": "/usr/bin/clang++ -O2 -g -DNDEBUG -std=gnu++2b -arch arm64 -o CMakeFiles/Minesweeper.dir/src/cell.cpp.o -c /Users/bradgale/Library/CloudStorage/OneDrive-Personal/CodingProjects/cpp/Minesweeper/src/cell.cpp",
+  "command": "/usr/bin/clang++ -O2 -g -DNDEBUG -std=gnu++2b -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -o CMakeFiles/Minesweeper.dir/src/cell.cpp.o -c /Users/bradgale/Library/CloudStorage/OneDrive-Personal/CodingProjects/cpp/Minesweeper/src/cell.cpp",
   "file": "/Users/bradgale/Library/CloudStorage/OneDrive-Personal/CodingProjects/cpp/Minesweeper/src/cell.cpp",
   "output": "CMakeFiles/Minesweeper.dir/src/cell.cpp.o"
 },
 {
   "directory": "/Users/bradgale/Library/CloudStorage/OneDrive-Personal/CodingProjects/cpp/Minesweeper/build",
-  "command": "/usr/bin/clang++ -O2 -g -DNDEBUG -std=gnu++2b -arch arm64 -o CMakeFiles/Minesweeper.dir/src/playerinput.cpp.o -c /Users/bradgale/Library/CloudStorage/OneDrive-Personal/CodingProjects/cpp/Minesweeper/src/playerinput.cpp",
+  "command": "/usr/bin/clang++ -O2 -g -DNDEBUG -std=gnu++2b -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -o CMakeFiles/Minesweeper.dir/src/playerinput.cpp.o -c /Users/bradgale/Library/CloudStorage/OneDrive-Personal/CodingProjects/cpp/Minesweeper/src/playerinput.cpp",
   "file": "/Users/bradgale/Library/CloudStorage/OneDrive-Personal/CodingProjects/cpp/Minesweeper/src/playerinput.cpp",
   "output": "CMakeFiles/Minesweeper.dir/src/playerinput.cpp.o"
 }

@@ -26,6 +26,6 @@ int main()
     }
 
     delete &minefield;
-
+    
     return 0;
 }
