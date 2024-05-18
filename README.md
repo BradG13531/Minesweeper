@@ -11,3 +11,5 @@ Controls:
   - A6
 - To place or remove a flag, enter the column letter and row number followed by an 'f':
   - A6f
+
+<img width="439" alt="Screenshot 2024-05-18 at 1 20 19 PM" src="https://github.com/BradG13531/Minesweeper/assets/65570359/84b1e710-1f68-4217-aba2-5a4ac2102677">
